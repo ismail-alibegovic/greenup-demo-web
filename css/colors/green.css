@@ -1,0 +1,24 @@
+/* BASCHA by GreenUp — Nature Green Theme */
+* {
+  --primary-color: #77a32a;
+  --primary-color-rgb: 119, 163, 42;
+  --primary-color-2: #5c8a1a;
+  --primary-color-2-rgb: 92, 138, 26;
+  --secondary-color: #8fb55a;
+  --secondary-color-rgb: 143, 181, 90;
+  --background:#f5f7f0;
+  --title-font-color: #2d4a1a;
+  --body-font-color: #3d4f32;
+  --dark-body-font-color: rgba(255, 255, 255, .85);
+  --bg-color-even: #eaf0e4;
+  --bg-color-odd: #f2f6ee;
+  --bg-dark-1: #1a3a0a;
+  --bg-dark-1-rgb: 26, 58, 10;
+  --bg-dark-2: #0f2a05;
+  --bg-dark-3: #234715;
+  --bg-dark-3-rgb: 35, 71, 21;
+  --bg-grey: #EDF2E8;
+  --bg-light: #E8F0E0;
+  --id-color-2: #77a32a;
+  --id-color-2-rgb: 119, 163, 42;
+}
